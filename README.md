@@ -13,5 +13,5 @@ For Encrypting and Dcrypting In base64 | Hex | Rot13 And soon for Findig the kin
 # How To Install 
 `git clone https://github.com/mehrshadbiriya/Mb.Cryptor`
 `pip3 install colorama`
-`cd ircryptor`
+`cd Mb.Cryptor`
 `python3 main.py`
